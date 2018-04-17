@@ -10,7 +10,7 @@
 
     <servlet>
         <servlet-name>Hello</servlet-name>
-        <servlet-class>src.main.java.Hello</servlet-class>
+        <servlet-class>com.sst.demo.Hello</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Hello</servlet-name>
@@ -18,7 +18,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>Hellosolr</servlet-name>
-        <servlet-class>src.main.java.solr</servlet-class>
+        <servlet-class>com.sst.demo.solr</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Hellosolr</servlet-name>
